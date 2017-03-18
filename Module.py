@@ -1,4 +1,9 @@
 # encoding:utf-8
+"""
+作者：Crazyfang
+日期：2017-3-17
+版本：1.0
+"""
 import cv2
 import numpy as np
 # from matplotlib import pyplot as plt
